@@ -1,2 +1,3 @@
 # generatepasswd
- 
+
+![screenshot](screenshot.png)
